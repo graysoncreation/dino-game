@@ -1,1 +1,16 @@
-
+{
+    "name": "Google Eggs",
+    "short_name": "Google E.",
+    "description": "The Google Eggs Web App",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "snake.png",
+            "sizes": "80x84",
+            "type": "image/png"
+        }
+    ]
+}
